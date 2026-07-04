@@ -1,9 +1,26 @@
 ## Hey there, i'm glad you're here!  
-
+_________________________________________________________________________________________________________________________________________________________________
 ### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 ________________________________________________________________________________________________________________________________________________________________
-welcome to my little corner of github!  
-i'm passionate about growing in my career, picking up new tech skills and making work life a little less overwhelming( and a lot more fun). here you'll find:
+## 🚀 About Me
+
+- 🎓 Bachelor's in Arts (Economics)
+- 📊 Learning Data Analytics
+- 💡 Interested in Business Intelligence & Data Visualization
+- 🌱 Currently learning Advanced SQL
+- 🎯 Goal: Become a Data Analyst
+  
+
+## 🛠️ Skills
+
+- 📈 Excel
+- 📊 Power BI
+- 🗄️ SQL
+- 🐍 Python (Pandas, NumPy)
+- 📉 Data Visualization
+- 🧹 Data Cleaning
+- 📋 Dashboard Design
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivanshuchauhan05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-chauhan-7a7209229?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshuchauhan995@gmail.com) 
