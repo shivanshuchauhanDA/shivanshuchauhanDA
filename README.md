@@ -1,4 +1,6 @@
-## Hey there, i'm glad you're here!
+## Hey there, i'm glad you're here!  
+
+### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 ________________________________________________________________________________________________________________________________________________________________
 welcome to my little corner of github!  
 i'm passionate about growing in my career, picking up new tech skills and making work life a little less overwhelming( and a lot more fun). here you'll find:
